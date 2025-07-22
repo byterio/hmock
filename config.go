@@ -42,6 +42,7 @@ var ConfigDefault = Config{
 			},
 		}, nil
 	},
+	Logger: nil,
 }
 
 // configDefault sets default values for the provided config.
