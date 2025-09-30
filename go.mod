@@ -1,3 +1,3 @@
 module github.com/byterio/hmock
 
-go 1.24.5
+go 1.25.1
