@@ -1,8 +1,8 @@
-# HMock - HTTP Mock Client for Go
+# HMock
 
 [![Go Version][GoVer-Image]][GoDoc-Url] [![License][License-Image]][License-Url] [![GoDoc][GoDoc-Image]][GoDoc-Url] [![Go Report Card][ReportCard-Image]][ReportCard-Url]
 
-[GoVer-Image]: https://img.shields.io/badge/Go-1.24%2B-blue
+[GoVer-Image]: https://img.shields.io/badge/Go-1.26%2B-blue
 [GoDoc-Url]: https://pkg.go.dev/github.com/byterio/hmock
 [GoDoc-Image]: https://pkg.go.dev/badge/github.com/byterio/hmock.svg
 [ReportCard-Url]: https://goreportcard.com/report/github.com/byterio/hmock
