@@ -26,7 +26,7 @@ HMock is a lightweight, flexible HTTP mock client for Go that helps you test you
 go get -u github.com/byterio/hmock
 ```
 
-## Quick Start
+## Usage
 
 ```go
 package main
